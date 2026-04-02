@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohsin Gillani
 
-<!--
-**mohsingillanidev01/mohsingillanidev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Laravel Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+* 💻 I build web applications using **Laravel, PHP, and modern frontend tools**
+* 🔧 Currently working on **dynamic systems, dashboards & data management**
+* 📚 Learning advanced concepts in **DSA, backend architecture & system design**
+ 
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+
+* Laravel
+* PHP
+* MySQL
+
+**Frontend:**
+
+* React, HTML, CSS, JavaScript
+* Bootstrap, Tailwind
+
+**Tools & Others:**
+
+* Git & GitHub
+* VS Code
+ 
+---
+
+⭐ *Always learning, always building.*
